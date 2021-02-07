@@ -11,5 +11,5 @@ Project 1 URL: https://oluwabusayo-o.github.io/p1.OluwabusayoOyekanmi/
 ![microwave](https://user-images.githubusercontent.com/78665905/107136635-cc960b80-68ca-11eb-971d-b69532c44266.jpeg)
 
 •	Show a gif image of the control interface in operation.
-DONE
+
 
