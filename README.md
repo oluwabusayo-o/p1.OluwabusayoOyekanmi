@@ -54,11 +54,14 @@ i.	You can press the auto-function button and still not know how to select the a
 ii.	You can mistakenly press the power button, which may increase or reduce the temperature. Now, because you are used to the number of minutes used in heating up your food, its either you dry out the food or it’ll not be hot enough and it’ll take more time to heat up. 
 iii. The screen is blank. no instruction as to what to do to get the timer started. You just guess by pressing numbers. 
 
-6.	Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+6.	Suggest the improvements to make on the control interface and justify your design decisions..
 i.	My approach is to make the design as simple and as easy to use as possible. The major use of a microwave by most people is to heat up food. The goal is to make the user interface easy to use and understand for every first time user.
-ii. I also provide feedback(instruction) as to what to do next to start the warming process. This way, there is no confusuion as to what to do next.
-iii.	Remove the auto-function buttons and replace the functions with power options. Whether High, Medium or Defrost. This is pretty direct and straight forward. You dont get bombarded with a barage of choices thereby leaving you confused. 
-iv.	Also, feedback to user should be improved. It should display a user-friendly message informing the user the food is ready. The light in the microwave should come on when the food begins to warm and go off with a sound when the light goes off. I also added an extra voice instruction telling the user "Food is ready"
+ii. I also provided feedback(instruction) as to what to do next(after putting the food in the microwave) to start the warming process. This way, there is no confusuion as to what to do next.
+iii.	Remove the auto-function buttons and replace the functions with power options. The options are High, Medium or Defrost. This is pretty direct and straight forward. This is to avoid getting bombarded with a barage of choices thereby leaving you confused. 
+iv.	Also, feedback to user should be improved. It should display a user-friendly message informing the user the food is ready. The light in the microwave should come on when the food begins to warm and go off with a sound when the light goes off. I also added an extra voice instruction telling the user the "Food is ready".
+
+ Sketch your solution.
+<img width="521" alt="Microwave Sketch_Project1" src="https://user-images.githubusercontent.com/78665905/109400854-b2bb7780-7910-11eb-8cf7-b4a5232df55d.PNG">
 
 
 
