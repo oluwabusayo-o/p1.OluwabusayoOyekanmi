@@ -65,7 +65,9 @@ ii. I also provided feedback(instruction) as to what to do next(after putting th
 
 iii.	Remove the auto-function buttons and replace the functions with power options. The options are High, Medium or Defrost. This is pretty direct and straight forward. This is to avoid getting bombarded with a barage of choices thereby leaving you confused. 
 
-iv.	Also, feedback to user should be improved. It should display a user-friendly message informing the user the food is ready. The light in the microwave should come on when the food begins to warm and go off with a sound when the light goes off. I also added an extra voice instruction telling the user the "Food is ready".
+iv.	Feedback to user should be improved. It should display a user-friendly message informing the user the food is ready. The light in the microwave should come on when the food begins to warm and go off with a sound when the light goes off. I also added an extra voice instruction telling the user the "Food is ready".
+
+v. Pressing 1 would be equated to 1 1minute. same refers for all other numbers to make it quicker to enter the number of minutes. 30 seconds can also be added at different point in time. this is better than having to enter in the number of seconds and minutes from the scratch which takes more seconds. 
 
 See below sketched solution:
  
