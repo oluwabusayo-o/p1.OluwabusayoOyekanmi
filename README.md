@@ -3,7 +3,6 @@ CS 5331 - Special Problems in Computer Science: Human Computer Interaction
 
 Project 1 URL: https://oluwabusayo-o.github.io/p1.OluwabusayoOyekanmi/
 
-
 **Answer for C**
 1.	A microwave in the apartment.
 
@@ -68,10 +67,15 @@ iv.	Also, feedback to user should be improved. It should display a user-friendly
 
 
 Answer for A:
-•	Come up with your design for the touch screen? What is the screen size that you want? 
-•	Design and implement interactive features
-•	Design and implement user feedback
-•	You use Processing for this project.
+1. Come up with your design for the touch screen? What is the screen size that you want? 
+   This has been completed in the submitted assignment. The screen size is 1500 X 800
+2. Design and implement interactive features
+   This has been completed in the submitted assignment.
+3. Design and implement user feedback.
+   This has been completed in the submitted assignment.
+4. You use Processing for this project.
+   This has been done using Processing.
+   
 
 
 
