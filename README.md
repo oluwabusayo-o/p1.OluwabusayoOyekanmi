@@ -61,6 +61,8 @@ iii.	Remove the auto-function buttons and replace the functions with power optio
 iv.	Also, feedback to user should be improved. It should display a user-friendly message informing the user the food is ready. The light in the microwave should come on when the food begins to warm and go off with a sound when the light goes off. I also added an extra voice instruction telling the user the "Food is ready".
 
  Sketch your solution.
+ 
+ 
 <img width="521" alt="Microwave Sketch_Project1" src="https://user-images.githubusercontent.com/78665905/109400854-b2bb7780-7910-11eb-8cf7-b4a5232df55d.PNG">
 
 
