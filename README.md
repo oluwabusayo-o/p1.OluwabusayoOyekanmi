@@ -4,20 +4,20 @@ CS 5331 - Special Problems in Computer Science: Human Computer Interaction
 Project 1 URL: https://oluwabusayo-o.github.io/p1.OluwabusayoOyekanmi/
 
 **Answer for C**
-1.	A microwave in the apartment.
+1. A microwave in the apartment.
 
 ![microwave](https://user-images.githubusercontent.com/78665905/107136635-cc960b80-68ca-11eb-971d-b69532c44266.jpeg)
 
-2.	Photos of the control interface.
+2. Photos of the control interface.
 
 ![microwave](https://user-images.githubusercontent.com/78665905/107136635-cc960b80-68ca-11eb-971d-b69532c44266.jpeg)
 
-3.	Show a gif image of the control interface in operation.
+3. Show a gif image of the control interface in operation.
 
 ![Control Interface Operations](https://user-images.githubusercontent.com/78665905/107136856-7a55ea00-68cc-11eb-8066-46732e836760.gif)
 
 
-4.	Issues with the current design and Explanation on why it is bad:
+4. Issues with the current design and Explanation on why it is bad:
 a.	I had to watch someone use the microwave before I knew how to operate it. Unlike my microwave back in Nigeria which just had 2 knobs (one that shows the timer and the other to show the level of heat). All I needed to do was to turn the knob below to set the timer. Or the knob above to select the level of heat I want in the food (e.g whether defrost or high heat) It was pretty easy to use for my everyday needs.
 
 b.	The auto-cook functions are not easy to understand or use:
@@ -58,7 +58,7 @@ ii.	You can mistakenly press the power button, which may increase or reduce the 
 
 iii. The screen is blank. no instruction as to what to do to get the timer started. You just guess by pressing numbers. 
 
-6a.	Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+6.	Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 i.	My approach is to make the design as simple and as easy to use as possible. The major use of a microwave by most people is to heat up food. The goal is to make the user interface easy to use and understand for every first time user.
 
 ii. I also provided feedback(instruction) as to what to do next(after putting the food in the microwave) to start the warming process. This way, there is no confusuion as to what to do next.
