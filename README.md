@@ -18,6 +18,7 @@ Project 1 URL: https://oluwabusayo-o.github.io/p1.OluwabusayoOyekanmi/
 
 
   4. Issues with the current design and Explanation on why it is bad:
+  
 a.	I had to watch someone use the microwave before I knew how to operate it. Unlike my microwave back in Nigeria which just had 2 knobs (one that shows the timer and the other to show the level of heat). All I needed to do was to turn the knob below to set the timer. Or the knob above to select the level of heat I want in the food (e.g whether defrost or high heat) It was pretty easy to use for my everyday needs.
 
 b.	The auto-cook functions are not easy to understand or use:
@@ -52,6 +53,7 @@ The common sequence of action is to open the microwave, put in the item to be he
 --There’s a countdown for the timer to monitor the time, a sound goes off when it is done cooking for the set time and the light in the microwave goes off.
 
   5.	What are some common mistakes you can make with this current design?
+  
 i.	You can press the auto-function button and still not know how to select the any of the menus listed on the panel. You’ll keep pressing 1 or 2 or 3 and just be frustrated. 
 
 ii.	You can mistakenly press the power button, which may increase or reduce the temperature. Now, because you are used to the number of minutes used in heating up your food, its either you dry out the food or it’ll not be hot enough and it’ll take more time to heat up. 
@@ -59,6 +61,7 @@ ii.	You can mistakenly press the power button, which may increase or reduce the 
 iii. The screen is blank. no instruction as to what to do to get the timer started. You just guess by pressing numbers. 
 
   6.	Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+  
 i.	My approach is to make the design as simple and as easy to use as possible. The major use of a microwave by most people is to heat up food. The goal is to make the user interface easy to use and understand for every first time user.
 
 ii. I also provided feedback(instruction) as to what to do next(after putting the food in the microwave) to start the warming process. This way, there is no confusuion as to what to do next.
