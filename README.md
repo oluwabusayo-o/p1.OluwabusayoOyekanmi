@@ -33,6 +33,7 @@ c.	There is a button called power. I eventually guessed that is the part where y
 
 
 **Answer for B**
+
 **1. Most common uses and other more rare uses of a microwave. Does the interface make doing those common things easier?**
 
 i.	I mostly warm food that I have refrigerated or food that I cooked but is already cold. Majorly any kind of food that is not hot, I put in the microwave to heat it up.
@@ -81,6 +82,7 @@ v. Pressing 1 would be equated to 1 1minute. same refers for all other numbers t
 
 
 **Answer for A:**
+
 **1. Come up with your design for the touch screen? What is the screen size that you want?**
 
 This has been completed in the submitted assignment. The screen size is 1500 X 800
